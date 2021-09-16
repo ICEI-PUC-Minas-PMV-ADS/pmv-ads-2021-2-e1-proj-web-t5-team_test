@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO 2222
+# COMÉRCIO ELETRÔNICO
 
 `CURSO`
 
@@ -17,7 +17,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Nome Luciana De Nardin
 
 ## Instruções de utilização
 
@@ -46,3 +46,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+## ~~StackEdit store~~
+
+s **your files in your browser,** which means all your files are automatically saved locally and are accessible **offline!**
