@@ -10,12 +10,11 @@ XXXXXXXXXXXXX
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
-## Integrantes
+# Integrantes
 
-* Luciana De Nardin
-* João da silva 
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+ - **Camila Leopoldino**
+ - *André Soares*
+ - **Vânia Maria**
 
 ## Orientador
 
