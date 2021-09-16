@@ -1,4 +1,4 @@
-# COMÉRCIO ELETRÔNICO
+# CONTROLE DE PREÇOS DE COMBUSTÍVEL
 
 *Hoje* o dia está de **sol**!!!
 
@@ -19,7 +19,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome Luciana De Nardin
+* Nome XXXXXXXXXXXXXXXXX
 
 ## Instruções de utilização
 
