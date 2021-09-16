@@ -1,17 +1,19 @@
 # COMÉRCIO ELETRÔNICO
 
+*Hoje* o dia está de **sol**!!!
+
 `CURSO`
 
-`DISCIPLINA`
+XXXXXXXXXXXXX
 
-`SEMESTRE`
+02/2021
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Luciana De Nardin
+* João da silva 
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
